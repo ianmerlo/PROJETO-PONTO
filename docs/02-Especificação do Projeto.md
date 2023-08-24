@@ -10,32 +10,32 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Maria Emília**
 <br>
-![Maria Emilia](https://user-images.githubusercontent.com/103081269/164123028-373f40ec-530f-49a6-b529-cf8bab28b30c.JPG) 
+![Maria Emilia](https://user-images.githubusercontent.com/54327906/262846043-b5d908e7-9ba6-4027-be96-38d331c2dc1c.png) 
 | Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
-|64 anos |Aposentada do Serviço Público Federal |Projetos que cuidam de animais abandonados, ONGs |Cuidar dos animais de rua e dar um lar para eles.| Divulgar o animal e arrecadar recursos para a ONG.| Quando um animal de rua achar um lar é emocionante.|
+|57 anos |Analista de TI |Projetos de softwares |Promover a transformação digital.| Bater e registrar os pontos de horários| Existem muitas dificuldades e bugs nesses aplicativos de pontos web.|
 
 
 **Jéssica Santos**
 <div align="left">
-<img src="https://user-images.githubusercontent.com/103541502/164845224-b19e0480-000f-47e0-a88e-d334f5983046.jpg" width="200px" />
+<img src="https://user-images.githubusercontent.com/54327906/262846108-7e43aa51-fe91-4d2f-8194-5ef87a904f84.jpg" width="200px" />
 </div>
 
 
 | Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
-|27 anos. |Trabalha em um escritório de contabilidade. |Adotou uma cachorrinha. | Incentivar as pessoas a adotarem. Ame mais os animais de rua.| Encontrar meios que divulguem os animais.|Não pretendia adotar, mas a história de um animal de rua acabou comovendo.|
+|27 anos. |Gerente de Contas. |Geenciar custos de uma empresa. | Organizar e facilitar a vida da empresa e funcionarios.| Controlar seus horarios extras através dos pontos digitais.|Não consegue organizar sua agenda e saber quantas horas extras foram executadas.|
 
 
 **Rafael Rodrigues**
 <div align="left">
-<img src="https://user-images.githubusercontent.com/103541502/164845252-7591d7c1-2b27-45fe-a620-41d7cf5d4900.jpg" width="200px" />
+<img src="https://user-images.githubusercontent.com/54327906/262846163-4f0cbbc3-3073-4e57-a008-fcf81062d809.png" width="200px" />
 </div>
 
 
 | Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
-|42 anos |Graduando em Administração. |Voluntário na zoonose de Betim. | Tratar os animais infectados. Encontrar um lar para esse animal.| Quando a eutanásia é sugerida. Falta de abrigos para os animais encontrados.|Infelizmente a zoonose recolhe animais que de alguma forma são de risco para a saúde pública. Aí entra a importância das ONGs, pois elas recolhem o animal de rua e promovem a castração dos animais.|
+|42 anos |Contador. |Contador em uma empresa de vendas. | Cuidar e gerenciar os orçamentos e lucros da empresa.| Visualizar e planejar suas horas contratadas e extras.| Visualizar e conseguir ter acesso aos pontos que foram registrados, com horario, data e local.|
 
 ## Histórias de Usuários
 
