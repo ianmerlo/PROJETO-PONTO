@@ -8,19 +8,34 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+**Maria Emília**
+<br>
+![Maria Emilia](https://user-images.githubusercontent.com/103081269/164123028-373f40ec-530f-49a6-b529-cf8bab28b30c.JPG) 
+| Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
+|:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
+|64 anos |Aposentada do Serviço Público Federal |Projetos que cuidam de animais abandonados, ONGs |Cuidar dos animais de rua e dar um lar para eles.| Divulgar o animal e arrecadar recursos para a ONG.| Quando um animal de rua achar um lar é emocionante.|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Jéssica Santos**
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103541502/164845224-b19e0480-000f-47e0-a88e-d334f5983046.jpg" width="200px" />
+</div>
+
+
+| Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
+|:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
+|27 anos. |Trabalha em um escritório de contabilidade. |Adotou uma cachorrinha. | Incentivar as pessoas a adotarem. Ame mais os animais de rua.| Encontrar meios que divulguem os animais.|Não pretendia adotar, mas a história de um animal de rua acabou comovendo.|
+
+
+**Rafael Rodrigues**
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103541502/164845252-7591d7c1-2b27-45fe-a620-41d7cf5d4900.jpg" width="200px" />
+</div>
+
+
+| Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
+|:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
+|42 anos |Graduando em Administração. |Voluntário na zoonose de Betim. | Tratar os animais infectados. Encontrar um lar para esse animal.| Quando a eutanásia é sugerida. Falta de abrigos para os animais encontrados.|Infelizmente a zoonose recolhe animais que de alguma forma são de risco para a saúde pública. Aí entra a importância das ONGs, pois elas recolhem o animal de rua e promovem a castração dos animais.|
 
 ## Histórias de Usuários
 
