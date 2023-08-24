@@ -24,7 +24,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | Idade    |Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
-|27 anos. |Gerente de Contas. |Geenciar custos de uma empresa. | Organizar e facilitar a vida da empresa e funcionarios.| Controlar seus horarios extras através dos pontos digitais.|Não consegue organizar sua agenda e saber quantas horas extras foram executadas.|
+|27 anos. |Gerente de Contas. |Gerenciar custos de uma empresa. | Organizar e facilitar a vida da empresa e funcionarios.| Controlar seus horarios extras através dos pontos digitais.|Não consegue organizar sua agenda e saber quantas horas extras foram executadas.|
 
 
 **Rafael Rodrigues**
